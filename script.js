@@ -29,7 +29,7 @@ function calculateTicketPrice() {
             basePrice += 5
             break;
 
-         case "refular":
+         case "regular":
             break;   
     
         default:
